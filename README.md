@@ -2,7 +2,7 @@
 Performed exploratory data analysis on 113K+ e-commerce sales records using Excel. Uncovered key insights into revenue trends, product performance, demographics, and profit margins over 6 years (2011–2016). Visualized findings using pivot tables and charts.
 This project features an end-to-end analysis of over 113,000 e-commerce transactions between 2011 and 2016. Using only Microsoft Excel, I cleaned, organized, and analyzed the dataset to uncover valuable business insights around revenue trends, product performance, and customer demographics.
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Road Bikes** were the top-performing category but faced a:
   - **30.84% drop in revenue in 2013** (coinciding with the store's expansion into new product lines)
@@ -18,7 +18,7 @@ This project features an end-to-end analysis of over 113,000 e-commerce transact
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel**  
   - Data cleaning  
@@ -28,14 +28,14 @@ This project features an end-to-end analysis of over 113,000 e-commerce transact
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `sales_data_work.xlsx` — Cleaned dataset and analysis with charts and pivot tables.
 - `README.md` — Project summary and insights.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Expand the analysis using **Python (Pandas, Matplotlib)** for automation.
 - Build an interactive **Tableau dashboard** to present insights dynamically.
